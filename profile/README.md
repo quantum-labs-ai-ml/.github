@@ -15,15 +15,12 @@ At Quantum Labs AI/ML, we believe in harnessing the power of quantum computing a
 We envision a world where technology serves humanity without compromising freedom or privacy. By blending quantum computing with AI/ML, we aim to create systems that are not only intelligent but also ethical, secure, and accessible to all. The future is decentralized, and we’re here to build it—one quantum bit at a time.
 
 ## Key Projects 🛠️
-- **[QuantumCryptML](link-to-repo)**: A machine learning framework for quantum-accelerated cryptographic systems.
-- **[Decentralized Neural Nets](link-to-repo)**: AI models running on blockchain for secure, trustless computation.
-- **[QubitPredict](link-to-repo)**: Predictive analytics powered by quantum algorithms for real-time decision-making.
+
+Soon
 
 ## Get Involved 🤝
 We’re always looking for passionate individuals to join our mission! Whether you’re a developer, researcher, or enthusiast, there’s a place for you at Quantum Labs AI/ML.
 - **Contribute**: Check out our [open issues](link-to-issues) and submit a pull request.
-- **Collaborate**: Reach out to us on [Discord](link-to-discord) or [Twitter](link-to-twitter) to discuss ideas.
-- **Learn**: Explore our [docs](link-to-docs) and tutorials to dive into quantum AI/ML.
 
 ## Tech Stack ⚙️
 - **Languages**: Python, Rust, Julia
