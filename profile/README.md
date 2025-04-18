@@ -3,6 +3,7 @@
 Welcome to **Quantum Labs AI/ML**, where the future of artificial intelligence and machine learning is being redefined with a cypherpunk ethos and cutting-edge innovation. We are a collective of forward-thinkers, coders, and visionaries pushing the boundaries of what’s possible in the quantum and AI space. 🌐
 
 ## Our Mission 🔒
+
 At Quantum Labs AI/ML, we believe in harnessing the power of quantum computing and machine learning to create decentralized, secure, and transparent solutions for a rapidly evolving digital world. Inspired by the cypherpunk movement, we prioritize privacy, autonomy, and the democratization of technology. Our goal is to build AI/ML systems that empower individuals, protect data sovereignty, and accelerate human discovery—all while embracing a futuristic mindset.
 
 ## What We Do 🧠
@@ -16,7 +17,8 @@ We envision a world where technology serves humanity without compromising freedo
 
 ## Key Projects 🛠️
 
-Soon
+- [Bitcoin Quantum:  Demo project about breaking Bitcoin cryptography using Quantum technology](https://github.com/quantum-labs-ai-ml/bitcoin-quantum)
+- [AI Quantum:  Demo project using AI and Quantum](https://github.com/quantum-labs-ai-ml/ai-quantum)
 
 ## Get Involved 🤝
 We’re always looking for passionate individuals to join our mission! Whether you’re a developer, researcher, or enthusiast, there’s a place for you at Quantum Labs AI/ML.
