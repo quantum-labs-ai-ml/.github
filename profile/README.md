@@ -22,7 +22,7 @@ We envision a world where technology serves humanity without compromising freedo
 
 ## Get Involved 🤝
 We’re always looking for passionate individuals to join our mission! Whether you’re a developer, researcher, or enthusiast, there’s a place for you at Quantum Labs AI/ML.
-- **Contribute**: Check out our [open issues](link-to-issues) and submit a pull request.
+- **Contribute**: Check out our open issues and submit a pull request.
 
 ## Tech Stack ⚙️
 - **Languages**: Python, Rust, Julia
